@@ -1,5 +1,5 @@
 # Sentinel-Refund
-SentinelRefund – Intelligent Refund Fraud Detection System
+SentinelRefund – Intelligent Refund Fraud Detection System.
 
 SentinelRefund is a mobile-first application built to detect and prevent fraudulent refund requests in B2B commerce platforms like Flipkart Wholesale. It enables real-time flagging and rejection of suspicious refunds based on frequency, time-of-request, and behavioral patterns—helping Walmart reduce financial leakage and boost operational trust.
 🚩 Problem
