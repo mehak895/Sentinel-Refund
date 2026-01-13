@@ -10,7 +10,7 @@ B2B buyers often misuse refund systems by submitting frequent or unjustified ref
 
     Loss of seller trust and damaged reputation.
 
-    High manual workload on support teams.
+    
 
 ✅ Solution
 
